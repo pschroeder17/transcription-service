@@ -30,12 +30,7 @@ Diese werden automatisch von Maven verwaltet.
     cd repository
     ```
 
-2. **Abhängigkeiten installieren**:
-    ```sh
-    mvn install
-    ```
-
-3. **Launch-Konfiguration anlegen**:
+2. **Launch-Konfiguration anlegen**:
 
     Um das Projekt in deiner Entwicklungsumgebung (z.B. Visual Studio Code) ausführen zu können, musst du eine `launch.json` Datei manuell erstellen. Diese Datei sollte sich im `.vscode` Verzeichnis deines Projektordners befinden.
 
