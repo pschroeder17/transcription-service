@@ -1,0 +1,28 @@
+.root {
+    -fx-font-family: 'Arial';
+}
+
+.label-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.button-upload {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
+
+.button-send {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
+
+.text-area {
+    -fx-pref-width: 400px;
+    -fx-pref-height: 400px;
+    -fx-font-size: 14px;
+}
